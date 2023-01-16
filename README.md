@@ -10,7 +10,7 @@ But the features I wil base my analysis on are:
 
 - **Gender**: The sec of the patient.
 
-- **Receiving SMS**: If the patiet received an sms to be arround for appointment.
+- **Receiving SMS**: If the patiet received an sms to be around for appointment.
 
 - **Age**: Age of the patient.
 
